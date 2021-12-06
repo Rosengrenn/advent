@@ -1,0 +1,37 @@
+[0m[[0m[31merror[0m] [0m[0m/home/reportgebban/advent/advent-of-code/src/main/scala/main.scala:11:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mextension (s: String)[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/reportgebban/advent/advent-of-code/src/main/scala/main.scala:12:3: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m  def input: Seq[Int] =[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/reportgebban/advent/advent-of-code/src/main/scala/main.scala:14:5: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m    val path = Paths.get(uri)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/reportgebban/advent/advent-of-code/src/main/scala/main.scala:15:5: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m    Files.readAllLines(path).asScala.map(_.toInt).toSeq[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/reportgebban/advent/advent-of-code/src/main/scala/main.scala:18:1: expected start of definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef main =[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/reportgebban/advent/advent-of-code/src/main/scala/main.scala:22:5: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m    lines.sliding(n).count(arr => arr(0) < arr(n - 1))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/reportgebban/advent/advent-of-code/src/main/scala/main.scala:23:3: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m  end sliding[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/reportgebban/advent/advent-of-code/src/main/scala/main.scala:25:3: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m  val partOne = sliding(2, "input1")[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/reportgebban/advent/advent-of-code/src/main/scala/main.scala:26:3: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m  println(partOne)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/reportgebban/advent/advent-of-code/src/main/scala/main.scala:27:3: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m  val partTwo = sliding(4, "input2")[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/reportgebban/advent/advent-of-code/src/main/scala/main.scala:28:3: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m  println(partTwo)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/reportgebban/advent/advent-of-code/src/main/scala/main.scala:30:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mend main[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m12 errors found[0m

@@ -1,0 +1,21 @@
+[0m2021.12.06 20:39:18 INFO  Started: Metals version 0.10.9 in workspace '/home/reportgebban/advent' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.06 20:39:18 INFO  time: initialize in 0.41s[0m
+[0m2021.12.06 20:39:19 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.06 20:39:19 WARN  no build tool detected in workspace '/home/reportgebban/advent'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.06 20:39:19 WARN  no build target for: /home/reportgebban/advent/advent-of-code/build.sbt[0m
+[0m2021.12.06 20:39:21 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.06 20:39:26 WARN  no build target for: /home/reportgebban/advent/advent-of-code/src/main/scala/Main.scala[0m
+[0m2021.12.06 20:39:28 WARN  no build target for: /home/reportgebban/advent/advent-of-code/src/main/scala/Main.scala[0m
+[0m2021.12.06 20:39:36 WARN  no build target for: /home/reportgebban/advent/advent-of-code/src/main/scala/main.scala[0m
+[0m2021.12.06 20:39:36 WARN  no build target for: /home/reportgebban/advent/advent-of-code/src/main/scala/main.scala[0m
+[0m2021.12.06 20:39:44 WARN  no build target for: /home/reportgebban/advent/advent-of-code/src/main/scala/main.scala[0m
+[0m2021.12.06 20:39:45 WARN  no build target for: /home/reportgebban/advent/advent-of-code/src/main/scala/main.scala[0m
+[0m2021.12.06 20:42:21 WARN  no build target for: /home/reportgebban/advent/advent-of-code/src/main/scala/main.scala[0m
+[0m2021.12.06 20:42:47 WARN  no build target for: /home/reportgebban/advent/advent-of-code/src/test/scala/Test1.scala[0m
+[0m2021.12.06 20:43:12 WARN  no build target for: /home/reportgebban/advent/advent-of-code/build.sbt[0m
+Dec 06, 2021 8:43:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+[0m2021.12.06 20:43:15 WARN  no build target for: /home/reportgebban/advent/advent-of-code/src/main/scala/main.scala[0m
+[0m2021.12.06 20:43:35 WARN  no build target for: /home/reportgebban/advent/advent-of-code/src/main/scala/main.scala[0m
+Dec 06, 2021 8:44:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
